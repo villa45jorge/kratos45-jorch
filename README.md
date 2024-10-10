@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am working on projects of fire characterization with remote sensing and artificial intelligence. Interested in geospatial analysis of various topics.
-
+I am working on projects of fire characterization with remote sensing and artificial intelligence. 
+Interested in geospatial analysis of various topics.
+Currently updating all projects I have worked on
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jorge-luis-villa-ramos/) 
